@@ -90,3 +90,4 @@ Second row → Autoencoder reconstructed digits
 
 <img width="949" height="337" alt="digit_recogntion" src="https://github.com/user-attachments/assets/20181c25-6915-498d-b127-9be726cacf3b" />
 
+<img width="836" height="547" alt="first 10 sampes" src="https://github.com/user-attachments/assets/40f31dd8-9721-4b9c-9a5d-d6dd6b03c670" />
